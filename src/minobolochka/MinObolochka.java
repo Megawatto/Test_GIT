@@ -5,6 +5,7 @@ public class MinObolochka {
 
     public static void main(String[] args) {
         //asdfd
+        //олорапра
         Point[] p = new Randome().getPoints();
         Logic l = new Logic();
         l.solve(p);
