@@ -4,6 +4,7 @@ package minobolochka;
 public class MinObolochka {
 
     public static void main(String[] args) {
+        //asdfd
         Point[] p = new Randome().getPoints();
         Logic l = new Logic();
         l.solve(p);
